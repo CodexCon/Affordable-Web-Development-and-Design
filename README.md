@@ -49,7 +49,8 @@ CodexCon stands out because of our commitment to quality, affordability, and spe
 ## Stay Connected!
 
 - 🌍 [Website](https://codexcon.net)
-- 🛒 [Shop](https://shop.codexcon.net)
+- 🛒 [Web Development & Design](https://web.codexcon.net)
+- 🛒 [Graphic Design](https://gfx.codexcon.net)
 - 📝 [Blog](https://blog.codexcon.net)
 - 📋 [Forms](https://forms.codexcon.net)
 - 🤖 [Tales of Cici](https://cici.codexcon.net)
